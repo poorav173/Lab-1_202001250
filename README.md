@@ -1,10 +1,11 @@
 # Lab-1_202001250
 
 
-Q1. The following are the functional and non-functional requirements:-
+# Q1. The following are the functional and non-functional requirements:-
 
 
-Functional requirements: These are the specifications that the end user expects as a minimum set of features. The functional requirements for the Library Information System will be as follows:
+# Functional requirements: 
+These are the specifications that the end user expects as a minimum set of features. The functional requirements for the Library Information System will be as follows:
 
 Simple Access:
 
@@ -18,7 +19,8 @@ Reminder that is past due:
 
 If users don't return the book by the specified date, they are alerted.
 
-Non-functional prerequisites:These are the requirements for quality that the system must meet.
+# Non-functional prerequisites:
+These are the requirements for quality that the system must meet.
 
 Security:
 
@@ -39,22 +41,22 @@ Scalability:
 When necessary, the system need to be able to grow its user base and accommodate additional users.
 If there are numerous libraries, the data should be scalable and kept in a database such that it is accessible from each library.
 
-Q2. The following are the scope, functional and non-functional requirements:
+# Q2. The following are the scope, functional and non-functional requirements:
 
-Project Aims:
+Scope:
 
 Designing a system that can detect loud noises and promptly notify the user as a result.
 Controlling: To begin, we offer a basic system design. The design is then put into practise to create a real working system. Depending on the results, we might or might not take the changes into account.
 In conclusion, we compare our finished system to the one we had originally planned to design.
 
-Functional prerequisites:
+# Functional prerequisites:
 
 being able to hear loud noises.
 based on the sounds, alerting the user.
 The user is alerted with little to no delay.
 AI is capable of identifying sounds such as baby crying, automobile horns, etc.
 
-Non-functional prerequisites:
+# Non-functional prerequisites:
 
 Reliability:
 
